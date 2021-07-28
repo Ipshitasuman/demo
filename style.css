@@ -5,7 +5,8 @@ h3{
 @font-face {
     font-family: 'rock n doll script';
     src: url('z-rock_n_doll_script-webfont.woff2') format('woff2'),
-         url('z-rock_n_doll_script-webfont.woff') format('woff');
+         url('z-rock_n_doll_script-webfont.woff') format('woff'),
+         url('rnds.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
